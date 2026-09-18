@@ -150,5 +150,5 @@ The practical implementations were written for educational purposes to understan
 
 ## Author
 
-**Neeyati Vijjeswarapu**
-Computer Science Student
+### Neeyati Vijjeswarapu
+**Computer Science Student**
